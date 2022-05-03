@@ -1,0 +1,12 @@
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csprojAssemblyReference.cache
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Form1.resources
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Properties.Resources.resources
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.GenerateResource.cache
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Form2.resources
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Form3.resources
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\bin\Debug\ChartBuilder.exe.config
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\bin\Debug\ChartBuilder.exe
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\bin\Debug\ChartBuilder.pdb
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\ChartBuilder.exe
+C:\Users\Ramunis\source\repos\WindowsFormsApp24\WindowsFormsApp24\obj\Debug\ChartBuilder.pdb
